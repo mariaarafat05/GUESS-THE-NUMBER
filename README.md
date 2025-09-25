@@ -2,7 +2,7 @@ print ('🎲  Welcome to the number guessing game ! 🎲 ')
 
 import random
 
-n = random.randint(1,10) # 5
+n = random.randint(1,10) 
 attempt = 0
 
 while True : 
