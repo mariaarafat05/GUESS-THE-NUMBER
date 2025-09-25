@@ -1,6 +1,5 @@
 print ('🎲  Welcome to the number guessing game ! 🎲 ')
 
-# the number is = 5
 import random
 
 n = random.randint(1,10) # 5
