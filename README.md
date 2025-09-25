@@ -1,4 +1,4 @@
-print ('🎲  Welcome to the number guessing game ! 🎲 ')
+print('🎲  Welcome to the number guessing game ! 🎲 ')
 
 import random
 
@@ -17,5 +17,4 @@ while True :
         print('➡️ too high ! try again ')
     
     else :
-        print('➡️ too low ! try again ')
-        
+        print('➡️ too low ! try again ') 
